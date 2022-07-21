@@ -1,0 +1,9 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": ["gtag", "headlessui", "heroicons", "tailwindcss", "typecheck"],
+  "ignoreWords": [],
+  "import": []
+}
