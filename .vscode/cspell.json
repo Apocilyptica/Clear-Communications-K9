@@ -3,7 +3,22 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["gtag", "headlessui", "heroicons", "tailwindcss", "typecheck"],
+  "words": [
+    "browserslist",
+    "Fusionary",
+    "gbimage",
+    "gtag",
+    "headlessui",
+    "heroicons",
+    "Jager",
+    "jscodeshift",
+    "Parens",
+    "tailwindcss",
+    "tsbuildinfo",
+    "typecheck",
+    "Typegen",
+    "usehooks"
+  ],
   "ignoreWords": [],
   "import": []
 }

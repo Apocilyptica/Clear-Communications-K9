@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-sans font-medium text-mainHeadline;
+  }
+
+  h1 {
+    @apply text-h1;
+  }
+  button {
+    @apply w-full text-buttonBase;
+  }
+  p {
+    @apply font-serif text-grey500 text-bodyBase;
+  }
+  section {
+    @apply py-16 xl:py-24;
+  }
+}
